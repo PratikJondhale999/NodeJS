@@ -1,0 +1,13 @@
+RESTFULL API -JSON
+
+GET /users - HTML Document Render
+GET /api/users - List all users - Done
+
+GET /api/users/1 - Get the user with ID 1.
+GET /api/users/2 - Get the user with ID 2.
+
+POST /api/Users - Create new users.
+
+PATCH /api/users/1 - Edit the user with ID 1
+
+DELETE /api/users/2 - Delete the User with ID 1.
